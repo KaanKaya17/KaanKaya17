@@ -1,60 +1,78 @@
-<h1 align="center">Hi 👋, I'm Kaan Kaya</h1>
-<h3 align="center">🚀 Software Developer from Türkiye</h3>
+<h1 align="center">
+  Hi 👋, I'm Kaan Kaya
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaanKaya17&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Mobile+Developer;C%23+%7C+.NET+%7C+Kotlin;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Student from Türkiye  
-- 💻 Interested in Backend & Mobile Development  
-- ⚡ Currently learning: **Advanced .NET & Kotlin**  
-- 📫 Reach me: **kayakaan.1717@gmail.com**
+## 🚀 About Me
+- 🎓 Software Developer from Türkiye  
+- 💻 Focused on **Backend (.NET) & Mobile (Android)**  
+- 🧠 Currently learning **System Design & Advanced Backend**  
+- ⚡ Goal: Building scalable and real-world applications  
+- 📫 Mail: **kayakaan.1717@gmail.com**
 
 ---
 
 ## 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://instagram.com/">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,mysql,mongodb,java,php,androidstudio" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaanKaya17&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanKaya17&layout=compact&theme=tokyonight" />
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🧰 Tech Stack
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaanKaya17&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,androidstudio,js,react,nodejs,mysql,mongodb,git" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaanKaya17&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanKaya17&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaanKaya17&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaanKaya17&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- 🔹 [Project 1](#)
-- 🔹 [Project 2](#)
-- 🔹 [Project 3](#)
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaanKaya17&repo=repo-name&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 💡 Quote
-> "Code. Learn. Build. Repeat."
+## 💡 Developer Mindset
+```bash
+while(alive){
+   eat();
+   code();
+   sleep();
+   repeat();
+}
