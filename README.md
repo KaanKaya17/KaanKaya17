@@ -17,10 +17,10 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/">
+<a href="https://tr.linkedin.com/in/kaan-mustafa-kaya-719b60307">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/kaan.kaya17">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
