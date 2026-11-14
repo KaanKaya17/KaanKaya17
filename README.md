@@ -9,6 +9,10 @@ Software developer from Türkiye, interested in backend and mobile development.
 - **BlueSteps** is an Android app about marine life, built for the We BLUE Erasmus+ project. It includes species profiles and quizzes in five languages. [Repository and Android APK](https://github.com/KaanKaya17/ErasmusMobileApp)
 - **Realistic Cannonball Mod** adds a mountable cannon and redstone support to Minecraft 1.20.1 with Fabric. [Repository and build instructions](https://github.com/KaanKaya17/MinecraftCannonballMod)
 
+## Support my work
+
+GitHub Sponsors helps me maintain my public projects, fix bugs, and improve their documentation. [Sponsor me on GitHub](https://github.com/sponsors/KaanKaya17)
+
 ## GitHub activity
 
 <p align="center">
