@@ -12,6 +12,7 @@ Software developer from Türkiye, interested in backend and mobile development.
 - [FitLog](https://github.com/KaanKaya17/FitLog) — Daily Calorie Track APP For Android
 - [Followtrail](https://github.com/KaanKaya17/Followtrail) — Followtrail: a local, open-source tool for your Instagram follow history. Review and compare data exports on Windows; records stay encrypted on your device. Not affiliated with Instagram or Meta.
 - [MinecraftCannonballMod](https://github.com/KaanKaya17/MinecraftCannonballMod) — Fabric mod for Minecraft 1.20.1 with a mountable field cannon, projectile effects, and redstone support.
+- [rlsprobe](https://github.com/KaanKaya17/rlsprobe) — Prove your Supabase RLS and Firebase Security Rules actually work — two real test users, evidence instead of guesses, fixes included.
 <!-- public-repos:end -->
 
 ## Support my work
