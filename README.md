@@ -12,6 +12,7 @@ Software developer from Türkiye, interested in backend and mobile development.
 - [ErasmusMobileApp](https://github.com/KaanKaya17/ErasmusMobileApp) — BlueSteps is a multilingual Android app for the We BLUE Erasmus+ project, with marine species guides, 3D models, and quizzes.
 - [FitLog](https://github.com/KaanKaya17/FitLog) — Daily Calorie Track APP For Android
 - [Followtrail](https://github.com/KaanKaya17/Followtrail) — Followtrail: a local, open-source tool for your Instagram follow history. Review and compare data exports on Windows; records stay encrypted on your device. Not affiliated with Instagram or Meta.
+- [importprobe](https://github.com/KaanKaya17/importprobe) — Catch what your AI coding agent made up: packages that don't exist, exports and methods a library never had, APIs removed in your version. CLI, Claude Code hook and MCP server.
 - [MinecraftCannonballMod](https://github.com/KaanKaya17/MinecraftCannonballMod) — Fabric mod for Minecraft 1.20.1 with a mountable field cannon, projectile effects, and redstone support.
 <!-- public-repos:end -->
 
